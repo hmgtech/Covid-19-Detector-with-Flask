@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[![Watch the video](https://i.ytimg.com/vi/Raiy4SVW_YY/0.jpg)](https://www.youtube.com/embed/Raiy4SVW_YY)
+[![Watch the video](https://i.ytimg.com/vi/Raiy4SVW_YY/0.jpg)](https://github.com/hmgtech/Covid-19-Detector-with-Flask/blob/main/covid.mp4)
 
 ## BackEnd
 
